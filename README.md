@@ -17,7 +17,7 @@ This is a simple Node.js program that measures your internet connection speed by
     node NetSpeedTest.js
     ```
 
-6. The program will perform two speed tests by downloading a 100MB file from [Speed Hetzner 100MB Bin File](https://speed.hetzner.de/100MB.bin) After each test, the results will be displayed, showing the average speed in bps, Kbps, and Mbps.
+6. The program will perform two speed tests by downloading a 100MB file from [Speed Hetzner](https://speed.hetzner.de/100MB.bin) After each test, the results will be displayed, showing the average speed in bps, Kbps, and Mbps.
 7. Once the tests are completed, you will be prompted to try the tests again or exit the script.
 
 # Dev Notes
